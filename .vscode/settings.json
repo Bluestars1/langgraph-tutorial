@@ -1,0 +1,4 @@
+{
+  "azureFunctions.createPythonVenv": false,
+  "azureFunctions.showPythonVenvWarning": false
+}
